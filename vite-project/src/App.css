@@ -1,0 +1,18 @@
+.App{
+  text-align: center;
+}
+
+img{
+  width: 60vw;
+}
+
+p{
+  text-align: justify;
+  padding: 1rem;
+}
+.article{
+  width: 80vw;
+  margin: 2rem auto;
+  border: 2px solid black;
+  padding: 2rem;
+}
